@@ -1,0 +1,1009 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投027",
+                "NAME": "永昌大樓",
+                "DATE": "2002\/4\/24",
+                "AREA": "1760.00",
+                "title": "永昌都市更新會(虎山路353巷)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/194\/s_南投001-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/194",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>95.10.13<\/span><br>\n更新地區面積: <span>1,538.17<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6859303,
+                    23.9652739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投025",
+                "NAME": "中華商場",
+                "DATE": "2006\/8\/10",
+                "AREA": "7130.62",
+                "title": "新豐社區(稻香路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/193\/s_南投025-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/193",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>95.08.10<\/span><br>\n更新地區面積: <span>7,130.62<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9746861,
+                    23.9682298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投024",
+                "NAME": "五爺城社區",
+                "DATE": "2006\/1\/20",
+                "AREA": "4406.92",
+                "title": "中華商場(中華路、民族路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/180\/s_南投024-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/180",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>95.01.20<\/span><br>\n更新地區面積: <span>4,406.92<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9448224,
+                    23.896177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投026",
+                "NAME": "中華立體停車場",
+                "DATE": "2006\/10\/13",
+                "AREA": "1538.17",
+                "title": "中華立體停車場(民族路平四街)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/179\/s_南投023-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/179",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>95.01.20<\/span><br>\n更新地區面積: <span>2,096.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9753299,
+                    23.9680974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投022",
+                "NAME": "新光社區",
+                "DATE": "2005\/12\/23",
+                "AREA": "6887.40",
+                "title": "五爺城社區(東興巷10號)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/177\/s_南投022-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/177",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>94.12.23<\/span><br>\n更新地區面積: <span>6,887.40<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6485885,
+                    23.9954174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投023",
+                "NAME": "新厝社區",
+                "DATE": "2006\/1\/20",
+                "AREA": "2096.00",
+                "title": "新厝社區(虎山路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/171\/s_南投021-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/171",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>94.07.11<\/span><br>\n更新地區面積: <span>23,640.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6876951,
+                    23.9711267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投020",
+                "NAME": "內新社區",
+                "DATE": "2005\/7\/11",
+                "AREA": "5751.00",
+                "title": "新光社區(石川路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/170\/s_南投022-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/170",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>94.07.11<\/span><br>\n更新地區面積: <span>5,751.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6902379,
+                    23.9372611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投019",
+                "NAME": "中山街社區",
+                "DATE": "2005\/5\/4",
+                "AREA": "4495.00",
+                "title": "新庄都市更新會(芬草路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/168\/s_更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/168",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>94.05.04<\/span><br>\n更新地區面積: <span>4,495.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6859732,
+                    23.9078396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投018",
+                "NAME": "牛運堀大樓",
+                "DATE": "2005\/3\/23",
+                "AREA": "15694.08",
+                "title": "內新社區(南營路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/167\/s_南投018-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/167",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>94.03.23<\/span><br>\n更新地區面積: <span>15,694.08<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6836987,
+                    23.9184615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "163",
+                "DBNUMBER": "南投017",
+                "NAME": "永平老街(都市更新單元5)",
+                "NAME2": null,
+                "DATE": "2004\/07\/15",
+                "AREA": "1151.63",
+                "title": "中山街社區(中山街)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/163\/s_南投017-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/163",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>94.02.24<\/span><br>\n更新地區面積: <span>2,256.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.7685047,
+                            23.8786272
+                        ],
+                        [
+                            120.7677698,
+                            23.8787302
+                        ],
+                        [
+                            120.7678878,
+                            23.8790245
+                        ],
+                        [
+                            120.7685047,
+                            23.8786272
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "161",
+                "DBNUMBER": "南投016",
+                "NAME": "公園大廈",
+                "NAME2": null,
+                "DATE": "2003\/04\/13",
+                "AREA": "1382.0",
+                "title": "牛運堀(祖祠路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/161\/s_南投016-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/161",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>93.10.08<\/span><br>\n更新地區面積: <span>246.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.6886983,
+                            23.9112602
+                        ],
+                        [
+                            120.6891114,
+                            23.9114122
+                        ],
+                        [
+                            120.6891972,
+                            23.911243
+                        ],
+                        [
+                            120.6891221,
+                            23.9112038
+                        ],
+                        [
+                            120.6891328,
+                            23.9110959
+                        ],
+                        [
+                            120.688819,
+                            23.9109941
+                        ],
+                        [
+                            120.6886983,
+                            23.9112602
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "155",
+                "DBNUMBER": "南投015",
+                "NAME": "陽明大樓",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "永平老街(都市更新單元5)(永平路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/155\/s_南投015-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/155",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>93.07.15<\/span><br>\n更新地區面積: <span>1,151.63<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.9741309,
+                            23.9641514
+                        ],
+                        [
+                            120.974139,
+                            23.9643646
+                        ],
+                        [
+                            120.9742972,
+                            23.9643303
+                        ],
+                        [
+                            120.974316,
+                            23.9643793
+                        ],
+                        [
+                            120.974957,
+                            23.9642102
+                        ],
+                        [
+                            120.9748203,
+                            23.9642151
+                        ],
+                        [
+                            120.9747881,
+                            23.9640827
+                        ],
+                        [
+                            120.9741953,
+                            23.9640999
+                        ],
+                        [
+                            120.9741578,
+                            23.9641219
+                        ],
+                        [
+                            120.9741309,
+                            23.9641514
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "141",
+                "DBNUMBER": "南投014",
+                "NAME": "鮮綠大樓",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "公園大廈(南陽路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/141\/s_南投014-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/141",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>92.04.13<\/span><br>\n更新地區面積: <span>1,382.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.9740934,
+                            23.9635778
+                        ],
+                        [
+                            120.9741041,
+                            23.9637347
+                        ],
+                        [
+                            120.974147,
+                            23.9637567
+                        ],
+                        [
+                            120.9741926,
+                            23.9637616
+                        ],
+                        [
+                            120.9746352,
+                            23.9636734
+                        ],
+                        [
+                            120.9744877,
+                            23.9635043
+                        ],
+                        [
+                            120.9740934,
+                            23.9635778
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "140",
+                "DBNUMBER": "南投013",
+                "NAME": "禾昌大樓(陽光新境)",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "鮮綠大樓(中華路忠孝三段路口)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/140\/s_南投013更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/140",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>92.04.07<\/span><br>\n更新地區面積: <span>1,371.72<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.6679487,
+                            23.9326423
+                        ],
+                        [
+                            120.6680426,
+                            23.9324339
+                        ],
+                        [
+                            120.6676832,
+                            23.9322476
+                        ],
+                        [
+                            120.6675598,
+                            23.9325418
+                        ],
+                        [
+                            120.6679487,
+                            23.9326423
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "139",
+                "DBNUMBER": "南投012",
+                "NAME": "永平老街(都市更新單元4)",
+                "NAME2": null,
+                "DATE": "2003\/04\/04",
+                "AREA": "9157.04",
+                "title": "陽明大樓(忠孝三路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/139\/s_南投012-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/139",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>92.04.07<\/span><br>\n更新地區面積: <span>1,465.69<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.7666326,
+                            23.8796229
+                        ],
+                        [
+                            120.7669839,
+                            23.8794758
+                        ],
+                        [
+                            120.7673594,
+                            23.8793213
+                        ],
+                        [
+                            120.767692,
+                            23.8791643
+                        ],
+                        [
+                            120.7678154,
+                            23.8791128
+                        ],
+                        [
+                            120.7676384,
+                            23.8787302
+                        ],
+                        [
+                            120.7663402,
+                            23.8789117
+                        ],
+                        [
+                            120.7663751,
+                            23.8790539
+                        ],
+                        [
+                            120.7666326,
+                            23.8796229
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "138",
+                "DBNUMBER": "南投011",
+                "NAME": "元寶大樓",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "禾昌大樓(陽光新境)(自立一路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/138\/s_南投011-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/138",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>92.04.07<\/span><br>\n更新地區面積: <span>1,008.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.967994,
+                            23.9731389
+                        ],
+                        [
+                            120.9685948,
+                            23.9731315
+                        ],
+                        [
+                            120.9686109,
+                            23.9729379
+                        ],
+                        [
+                            120.9679833,
+                            23.9729404
+                        ],
+                        [
+                            120.967994,
+                            23.9731389
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "137",
+                "DBNUMBER": "南投010",
+                "NAME": "永平都市更新單元6",
+                "NAME2": null,
+                "DATE": "2003\/01\/17",
+                "AREA": "11893.17",
+                "title": "永平老街(都市更新單元4)(永平路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/137\/s_南投015-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/137",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>92.04.04<\/span><br>\n更新地區面積: <span>9,157.04<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.7686845,
+                            23.8785021
+                        ],
+                        [
+                            120.7686174,
+                            23.8781072
+                        ],
+                        [
+                            120.7665119,
+                            23.8783108
+                        ],
+                        [
+                            120.7664958,
+                            23.8781955
+                        ],
+                        [
+                            120.7663026,
+                            23.8782176
+                        ],
+                        [
+                            120.7663831,
+                            23.8788062
+                        ],
+                        [
+                            120.7686845,
+                            23.8785021
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投011",
+                "NAME": "元寶大樓",
+                "DATE": "2003\/4\/7",
+                "AREA": "1008.00",
+                "title": "元寶大樓(信義路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/135\/s_南投009-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/135",
+                "content": "更新地區類型: <span>都市更新-優先劃定<\/span><br>\n更新地區公告日期: <span>92.02.11<\/span><br>\n更新地區面積: <span>5,701.47<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.96834,
+                    23.9730237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投008",
+                "NAME": "成功香榭",
+                "DATE": "2003\/1\/17",
+                "AREA": "11893.17",
+                "title": "永平老街(都市更新單元6)(永平路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/134\/s_南投015-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/134",
+                "content": "更新地區類型: <span>都市更新-優先劃定<\/span><br>\n更新地區公告日期: <span>92.01.17<\/span><br>\n更新地區面積: <span>11,893.17<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6699067,
+                    23.9328581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投009",
+                "NAME": "總統官邸",
+                "DATE": "2003\/2\/11",
+                "AREA": "5701.47",
+                "title": "總統官邸(中正路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/133\/s_南投007-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/133",
+                "content": "更新地區類型: <span>都市更新-優先劃定<\/span><br>\n更新地區公告日期: <span>91.12.09<\/span><br>\n更新地區面積: <span>2,183.18<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6990704,
+                    23.9788467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投006",
+                "NAME": "藝術國寶",
+                "DATE": "2002\/12\/2",
+                "AREA": "302.00",
+                "title": "成功香榭(成功三路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/132\/s_南投006-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/132",
+                "content": "更新地區類型: <span>都市更新-優先劃定<\/span><br>\n更新地區公告日期: <span>91.12.02<\/span><br>\n更新地區面積: <span>302.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6983703,
+                    23.97856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "133",
+                "DBNUMBER": "南投007",
+                "NAME": "安記名邨(上毅世家)",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "安記名邨(上毅世家)(彰南路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/131\/s_南投005-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/131",
+                "content": "更新地區類型: <span>都市更新-優先劃定<\/span><br>\n更新地區公告日期: <span>91.11.27<\/span><br>\n更新地區面積: <span>911.44<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.7030763,
+                            23.8366829
+                        ],
+                        [
+                            120.7030722,
+                            23.8368952
+                        ],
+                        [
+                            120.7035322,
+                            23.8369038
+                        ],
+                        [
+                            120.7037133,
+                            23.8366829
+                        ],
+                        [
+                            120.7030763,
+                            23.8366829
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "132",
+                "DBNUMBER": "南投004",
+                "NAME": "藝術國寶",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "藝術國寶(中正路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/124\/s_南投004-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/124",
+                "content": "更新地區類型: <span>都市更新-優先劃定<\/span><br>\n更新地區公告日期: <span>91.11.02<\/span><br>\n更新地區面積: <span>4,202.61<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.6984025,
+                            23.9786017
+                        ],
+                        [
+                            120.6987888,
+                            23.9779302
+                        ],
+                        [
+                            120.6986117,
+                            23.9778468
+                        ],
+                        [
+                            120.6985581,
+                            23.9779056
+                        ],
+                        [
+                            120.6983489,
+                            23.9778174
+                        ],
+                        [
+                            120.6982362,
+                            23.9778517
+                        ],
+                        [
+                            120.6978714,
+                            23.978533
+                        ],
+                        [
+                            120.6983113,
+                            23.9784987
+                        ],
+                        [
+                            120.6983006,
+                            23.9786213
+                        ],
+                        [
+                            120.6984025,
+                            23.9786017
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "131",
+                "DBNUMBER": "南投005",
+                "NAME": "歡樂家年華社區",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "歡樂家年華社區(西安路一段)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/123\/s_南投003-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/123",
+                "content": "更新地區類型: <span>都市更新-優先劃定<\/span><br>\n更新地區公告日期: <span>91.11.01<\/span><br>\n更新地區面積: <span>753.51<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.9662238,
+                            23.9657813
+                        ],
+                        [
+                            120.9664115,
+                            23.9655827
+                        ],
+                        [
+                            120.9662721,
+                            23.9654773
+                        ],
+                        [
+                            120.9660789,
+                            23.9656661
+                        ],
+                        [
+                            120.9662238,
+                            23.9657813
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "DBNUMBER": "南投028",
+                "NAME": "新豐社區",
+                "DATE": "2002\/9\/18",
+                "AREA": "1631.49",
+                "title": "永平老街(都市更新單元1)(永平路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/119\/s_南投015-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/119",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>91.09.18<\/span><br>\n更新地區面積: <span>1,631.49<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6712317,
+                    24.0034251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "123",
+                "DBNUMBER": "南投003",
+                "NAME": "向陽社區(南投水稻之歌八期)",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "向陽社區(南投水稻之歌八期)(中興路182巷)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/113\/s_南投002-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/113",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>91.08.07<\/span><br>\n更新地區面積: <span>531.57<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.6935772,
+                            23.9372243
+                        ],
+                        [
+                            120.693824,
+                            23.9373836
+                        ],
+                        [
+                            120.6939313,
+                            23.9372513
+                        ],
+                        [
+                            120.6936872,
+                            23.9370895
+                        ],
+                        [
+                            120.6935772,
+                            23.9372243
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "113",
+                "DBNUMBER": "南投002",
+                "NAME": "永平都市更新單元3",
+                "NAME2": null,
+                "DATE": "2002\/04\/24",
+                "AREA": "1760.0",
+                "title": "永平老街(都市更新單元3)(永平路)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/88\/s_南投015-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/88",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>91.04.24<\/span><br>\n更新地區面積: <span>1,760.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.7647684,
+                            23.8795125
+                        ],
+                        [
+                            120.7648676,
+                            23.8794341
+                        ],
+                        [
+                            120.7653129,
+                            23.8792808
+                        ],
+                        [
+                            120.7652432,
+                            23.8790834
+                        ],
+                        [
+                            120.7646209,
+                            23.8792109
+                        ],
+                        [
+                            120.7647684,
+                            23.8795125
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NUMBER": "21",
+                "DBNUMBER": "南投001",
+                "NAME": "正興家園(水稻之歌七期)",
+                "NAME2": null,
+                "DATE": null,
+                "AREA": null,
+                "title": "正興家園(水稻之歌七期)",
+                "type": "update_area",
+                "image": "\/resources\/urbancase\/area\/21\/s_南投001-更新地區範圍圖.jpg",
+                "is_show_alt": true,
+                "link": "\/zh\/urban\/area\/view\/21",
+                "content": "更新地區類型: <span>都市更新-迅行劃定<\/span><br>\n更新地區公告日期: <span>90.07.09<\/span><br>\n更新地區面積: <span>1,134.00<\/span><br>\n"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            120.6830013,
+                            23.9615018
+                        ],
+                        [
+                            120.682945,
+                            23.9610557
+                        ],
+                        [
+                            120.682666,
+                            23.9610925
+                        ],
+                        [
+                            120.6827331,
+                            23.9615459
+                        ],
+                        [
+                            120.6830013,
+                            23.9615018
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
